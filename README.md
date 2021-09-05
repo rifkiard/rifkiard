@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👨‍⚖️ I'm currently working at [boksman asia](https://boksman.com) 
 - ⚡ Fun fact: I doesn't love fun fact
+- 📚 [megonesia](https://megonesia.com) 
 
 ### Connect with me:
 
