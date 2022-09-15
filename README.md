@@ -1,6 +1,6 @@
 ### Hi there, I'm Rifki Ardiansyah 👋
 
-[![Website](https://img.shields.io/website?label=rifkiard.github.io&style=for-the-badge&url=https%3A%2F%rifkiard.github.io)](https://rifkiard.github.io)
+[![Website](https://img.shields.io/website?label=rifkiard.github.io&style=for-the-badge&url=https://rifkiard.github.io)](https://rifkiard.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rifkiards?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rifkiards)
 
 ## I'm a Developer!!
