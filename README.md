@@ -6,6 +6,12 @@
 
 ## I'm a Software Engineer
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rifkiard/rifkiard/blob/output/github-contribution-github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rifkiard/rifkiard/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/rifkiard/rifkiard/blob/output/github-contribution-github-snake-dark.svg" />
+</picture>
+
 [website]: https://rifki.tech
 [twitter]: https://twitter.com/devtofy
 [youtube]: https://www.youtube.com/channel/UCbtayp_D7-i-wZd3MsXjl6A
